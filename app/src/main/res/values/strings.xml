@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Football Dedi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_match">Match</string>
+    <string name="saved_match">Favorite</string>
+    <string name="search_hint">search</string>
+    <string name="str_team">Teams</string>
+
+
+    <array name="leagueArray">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+        <item>Netherlands Eredivisie</item>
+    </array>
+
+</resources>
